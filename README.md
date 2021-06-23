@@ -17,7 +17,7 @@ Jeremy will peform the following:
 
 1. Vehicle weight and AWD provided a non-random amount of variance. The two variables that had the most amount of random variance are ground_clearance and vehicle_length.
 2. R-squared value is 71%, which means roughly ~71% of the time the model will predict mpg values correctly.
-3. 
+
 ### Suspension Coil Analysis
 The current manufacturing data meets the 100 pounds per square inch variance limitation based on thhe overall variance for the entire dataset. It appears that a third lot demonstrates a much higher variance. Since lots are chosen randomly it is a possible that a third of the lot does not meet the necessary suspension coils requirement.
 
